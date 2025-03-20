@@ -1,0 +1,17 @@
+{
+    "build_file": null,
+    "build_targets": [],
+    "compatibility_level": "0",
+    "deps": [],
+    "module_dot_bazel": null,
+    "name": "highs",
+    "patch_strip": 0,
+    "patches": [],
+    "presubmit_yml": "",
+    "strip_prefix": "HiGHS",
+    "test_module_build_targets": [],
+    "test_module_path": null,
+    "test_module_test_targets": [],
+    "url": "https://github.com/ERGO-Code/HiGHS/releases/download/v1.10.0/source-archive.tar.gz",
+    "version": "1.10.0"
+}
