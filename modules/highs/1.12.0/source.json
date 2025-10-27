@@ -1,0 +1,9 @@
+{
+    "url": "https://github.com/ERGO-Code/HiGHS/releases/download/v1.12.0/source-archive.tar.gz",
+    "integrity": "sha256-1BxOcvXHryW98WgxtBQl+TWaQ99RrMRWoie/e8OcaRw=",
+    "strip_prefix": "HiGHS",
+    "patches": {
+        "bazel-hconfig-version.patch": "sha256-R9K4rHNsOF57H7qbyN4BUqAQUKNfsRpxZF6tXKQHL5g="
+    },
+    "patch_strip": 1
+}
